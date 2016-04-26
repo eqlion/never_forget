@@ -1,3 +1,8 @@
+---
+layout: default
+title: About
+---
+
 # About
 
 Nikolay Lapa aka *eqlion*, 16.
