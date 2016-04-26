@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>{{ page.title }} - {{ site.title }}</title>
+    <link rel="stylesheet" href="{{ site.path }}/css/style.css" >
+    <link rel="shortcut icon" type="image/png" href="/favicon.png">
+</head>
+<body>
+
+<div id="wrapper">
+    <div id="header">
+        <span class='big'>{{ site.title }}</span>
+        <span class='small'>{{ site.subtitle }}</span>
+    </div>
+
+    <hr align="center" width="760">
+
+    <div id="content">
+        {{ content }}
+    </div>
+
+    <hr align="center" width="760">
+
+</div>
+</body>
+</html>
