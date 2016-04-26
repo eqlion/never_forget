@@ -4,3 +4,58 @@ body {
     background-color: #1c1c1c;
     color: #d7d7d7;
 }
+
+a, a:visited {
+    color: #00be98;
+    text-decoration: underline;
+}
+
+a:hover {
+    color: #0095E2;
+    text-decoration: underline;
+}
+
+h1,h2,h3,h4,h5,h6 {
+    font-weight: normal;
+    color: #0095E2;
+}
+
+strong {
+    font-weight: normal;
+}
+
+#wrapper {
+    width: 760px;
+    padding: 0px;
+    margin: auto;
+}
+
+#header {
+    padding: 4px 4px 4px 0;
+}
+
+#header .big {
+    font-size:   140%;
+    color: #d7d7d7;
+    /*font-weight: bold;*/
+}
+
+#header .small {
+    font-size:    90%;
+    color:        grey;
+    padding-left: 15px;
+}
+
+#nav {
+    padding: 6px 6px 6px 0;
+}
+
+#footer {
+    padding: 8px;
+}
+
+img[alt=profile_pic] {
+    width: 150px;
+}
+Status API Training Shop Blog About
+© 2016 GitHub, Inc. Terms Privac
