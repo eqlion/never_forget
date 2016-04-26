@@ -2,22 +2,22 @@ body {
     font-family: "Courier New",Arial,sans-serif;
     font-size: 15px;
     background-color: #1c1c1c;
-    color: #d7d7d7;
+    color: #002b36;
 }
 
 a, a:visited {
-    color: #00be98;
+    color: #268bd2;
     text-decoration: underline;
 }
 
 a:hover {
-    color: #0095E2;
+    color: #2aa198;
     text-decoration: underline;
 }
 
 h1,h2,h3,h4,h5,h6 {
     font-weight: normal;
-    color: #0095E2;
+    color: #93a1a1;
 }
 
 strong {
