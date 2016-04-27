@@ -7,7 +7,7 @@ title: About
 
 ![avatar](avatar.jpg)
 
-Nikolay Lapa aka *eqlion*, 16.
+Nikolay Lapa aka **eqlion**, 16.
 
 student. trying different IT stuff. love space.
 
