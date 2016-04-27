@@ -58,5 +58,6 @@ strong {
 
 img[alt=avatar] {
     width: 150px;
+    opacity: 0.87;
 }
 
