@@ -7,12 +7,12 @@ body {
 
 a, a:visited {
     color: #FFFFFF;
-    opacity: 38%;
+    opacity: 0.38;
     text-decoration: underline;
 }
 
 a:hover {
-    opacity: 87%;
+    opacity: 0.87;
     color: #FFFFFF;
     text-decoration: underline;
 }
