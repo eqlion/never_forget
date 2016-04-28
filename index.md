@@ -11,7 +11,7 @@ Nikolay Lapa aka **eqlion**, 16.
 
 student. trying different IT stuff. love space.
 
-hobbies: watchin a lot of series, playing video games, fond of a wide range of music (almost whatever).
+hobbies: watchin a lot of series, playing video games, fond of a wide range of music (almost everything).
 
 ---
 
