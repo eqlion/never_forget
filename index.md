@@ -17,7 +17,7 @@ hobbies: watchin a lot of series, playing video games, fond of a wide range of m
 
 # Social links
 
-Feel free to add me there or write or whatever you wanna do
+Feel free to add me there or write or whatever you wanna do.
 
 * [twitter](https://twitter.com/eqli0n)
 * [vk](https://vk.com/eqlion)
