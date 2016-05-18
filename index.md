@@ -3,11 +3,11 @@ layout: default
 title: About
 ---
 
-# About
+# about
 
 ![avatar](avatar.jpg)
 
-Nikolay Lapa aka **eqlion**, 16.
+Nikolay aka **eqlion**, 16.
 
 student. trying different IT stuff. love space.
 
@@ -15,9 +15,9 @@ hobbies: watchin a lot of series, playing video games, fond of a wide range of m
 
 ---
 
-# Social links
+# social links
 
-Feel free to add me there or write or whatever you wanna do.
+feel free to add me there or write or whatever you wanna do.
 
 * [twitter](https://twitter.com/eqli0n)
 * [vk](https://vk.com/eqlion)
