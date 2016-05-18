@@ -1,5 +1,9 @@
+@font-face {
+	font-family: MyFirstf;
+	src: url(mononoki-Regular.ttf)
+}
 body {
-    font-family: "Courier New",Arial,sans-serif;
+    font-family: MyFirstf;
     font-size: 15px;
     background-color: #1c1c1c;
     color: #FFFFFF;
