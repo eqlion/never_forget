@@ -9,9 +9,9 @@ body {
 	
     /*font-family: "Courier New", Arial, sans-serif;*/
 	font-family: 'Space Mono', monospace;
-    
+    /* text-align: justify; */
     font-size: 16px;
-    background-color: #1c1c1c;
+    background-color: #161616;
     color: #FFFFFF;
 }
 	
@@ -30,4 +30,8 @@ a:hover {
 h1 {
     font-weight: normal;
     color: #FFFFFF;
+}
+
+hr, p, h1 {
+	margin-right: 8px;
 }
