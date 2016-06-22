@@ -3,6 +3,8 @@ layout: default
 title: About
 ---
 
+---
+
 # about
 
 ![avatar](avatar.jpg)
@@ -26,3 +28,5 @@ feel free to add me there or write or whatever you wanna do.
 * [telegram](https://telegram.me/eqlion)
 * [instagram](http://instagr.am/eqlion)
 * [steam](http://steamcommunity.com/id/eqlion)
+
+---
