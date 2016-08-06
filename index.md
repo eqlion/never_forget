@@ -9,7 +9,7 @@ title: About
 
 ![avatar](avatar.jpg)
 
-Nikolay aka **eqlion**, 16.
+Nikolay aka **eqlion**, 17.
 
 student. trying different IT stuff. love space.
 
@@ -28,5 +28,6 @@ feel free to add me there or write or whatever you wanna do.
 * [telegram](https://telegram.me/eqlion)
 * [instagram](http://instagr.am/eqlion)
 * [steam](http://steamcommunity.com/id/eqlion)
+* [codewars](https://www.codewars.com/users/eqlion)
 
 ---
