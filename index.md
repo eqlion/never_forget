@@ -12,15 +12,15 @@ title: About
 
 Nikolay aka **eqlion**, 17.
 
-student. trying different IT stuff. love space.
+student. trying various IT stuff. single.
 
-hobbies: watching a lot of series, playing video games, fond of a wide range of music (almost everything), learning python.
+hobbies: watching a ton of series, playing video games, fond of a wide range of music (almost everything), learning English and python, saving pictures, writing katas for codewars from time to time.
 
 ---
 
 # social links
 
-feel free to add me there or write or whatever you wanna do.
+feel free to add & write me there.
 
 * [twitter](https://twitter.com/eqli0n)
 * [vk](https://vk.com/eqlion)
