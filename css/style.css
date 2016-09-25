@@ -1,5 +1,4 @@
 body {
-    /*font-family: "Courier New",Arial,sans-serif;*/
     font-family: 'Space Mono', monospace;
     font-size: 15px;
     background-color: #161616;
@@ -27,38 +26,10 @@ strong {
     font-weight: normal;
 }
 
-#wrapper {
+#content {
     width: 760px;
     padding: 0px;
     margin: 3em 10%
 }
 
-#header {
-    padding: 4px 4px 4px 0;
-}
-
-#header .big {
-    font-size:   140%;
-    color: #d7d7d7;
-    /*font-weight: bold;*/
-}
-
-#header .small {
-    font-size:    90%;
-    color:        grey;
-    padding-left: 15px;
-}
-
-#nav {
-    padding: 6px 6px 6px 0;
-}
-
-#footer {
-    padding: 8px;
-}
-
-img[alt=avatar] {
-    width: 150px;
-    opacity: 0.87;
-}
 
