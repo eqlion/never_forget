@@ -1,5 +1,5 @@
-# never_forget
+# Header
 
-will see what's gonna happen here in the future
+Well, it's a [site](eqlion.github.io) (sic!)  now!
 
-dis gonna be site ~~some day~~
+###### HARAMBE WAS AN INSIDE JOB, NEVER FORGET
