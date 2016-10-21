@@ -30,5 +30,6 @@ feel free to add & write me there.
 * [instagram](http://instagr.am/eqlion)
 * [steam](http://steamcommunity.com/id/eqlion)
 * [codewars](https://www.codewars.com/users/eqlion)
+* Eqlion#2680
 
 ---
