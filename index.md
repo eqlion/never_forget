@@ -12,7 +12,7 @@ title: About
 
 Nikolay aka **eqlion**, 17.
 
-student. trying various IT stuff. single.
+student. trying various IT stuff.
 
 hobbies: watching a ton of series, playing video games, fan of a wide range of music (almost everything), learning English and python, saving pictures, writing katas for codewars from time to time.
 
@@ -30,6 +30,6 @@ feel free to add & write me there.
 * [instagram](http://instagr.am/eqlion)
 * [steam](http://steamcommunity.com/id/eqlion)
 * [codewars](https://www.codewars.com/users/eqlion)
-* Eqlion#2680
+* [](Eqlion#2680)
 
 ---
