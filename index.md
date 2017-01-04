@@ -27,7 +27,7 @@ feel free to add & write me there.
 * [vk](https://vk.com/eqlion)
 * [last.fm](http://last.fm/user/eqlion)
 * [trakt.tv](https://trakt.tv/users/eqlion)
-* [telegram](https://telegram.me/eqlion)
+* [telegram](http://t.me/Eqlion)
 * [instagram](http://instagr.am/eqlion)
 * [steam](http://steamcommunity.com/id/eqlion)
 * [codewars](https://www.codewars.com/users/eqlion)
