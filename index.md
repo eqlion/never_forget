@@ -15,7 +15,7 @@ Nikolay aka *eqlion*, 17.
 
 student. trying various IT stuff.
 
-hobbies: watching a ton of series, playing vidya gaems, listen to different shit (almost everything), learning English and python, saving pictures, writing katas for codewars from time to time.
+hobbies: watching a ton of series, playing vidya gaems, listening to different shit (almost everything), learning English and python, saving pictures, writing katas for codewars from time to time.
 
 ---
 
