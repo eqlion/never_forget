@@ -13,7 +13,7 @@ title: About
 
 Nikolay aka *eqlion*, 19.
 
-freshman @ [IFMO, SPb](http://en.ifmo.ru/en). trying various IT stuff.
+sophomore @ [IFMO, SPb](http://en.ifmo.ru/en). trying to do <s>stuff</s> something.
 
 hobbies: watching a ton of series, playing vidya gaems, listening to different shit (almost everything), learning English and python, saving pictures, writing katas for codewars from time to time.
 
