@@ -5,6 +5,7 @@ let countDiv;
 let slider;
 let count;
 let n;
+let message;
 
 let calcPerFrame = 10000;
 
@@ -20,6 +21,7 @@ function setup() {
   resetSketch();
 
   slider.mouseReleased(resetSketch);
+  slider.touchEnded(resetSketch);
 }
 
 function resetSketch() {
@@ -50,5 +52,12 @@ function draw() {
     }
     particle.update();
   }
-  countDiv.html(`Approximation is ${count/pow(10, n)}. Sometimes the last digit takes a while.`);
+
+  if (n > 1) {
+    message = "decimal places";
+  } else {
+    message = "decimal place";
+  }
+
+  countDiv.html(`Approximation is ${count/pow(10, n)} to ${n} ${message}. Sometimes the last digit takes a while.`);
 }
