@@ -16,7 +16,7 @@ let lower = 0.93;
 function setup() {
   createCanvas(windowWidth * .97, windowHeight * .97);
   colorMode(HSB, 255);
-  background(51);
+  background(0);
 
 }
 

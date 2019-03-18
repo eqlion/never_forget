@@ -7,7 +7,7 @@ let font,
   fontsize = 64;
 
 function preload() {
-  font = loadFont('MajorMonoDisplay-Regular.ttf')
+  font = loadFont('../resources/MajorMonoDisplay-Regular.ttf')
 }
 
 function setup() {
@@ -69,7 +69,7 @@ function draw() {
   for (angle = 0; angle < TWO_PI; angle += TWO_PI / 360) {
     let x = 2 * a * (1 - cos(angle)) * cos(angle);
     let y = 2 * a * (1 - cos(angle)) * sin(angle);
-    vertex(x,y);
+    vertex(x, y);
   }
   endShape();
 
@@ -91,7 +91,7 @@ function draw() {
 function windowResized() {
   resizeCanvas(windowWidth * .97, windowHeight * .97);
   r = min(width, height) / 2 * .7;
-  
+
   slider.position(width * .05, height * .98);
   slider.size(width * .9);
 };
